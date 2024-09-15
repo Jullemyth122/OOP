@@ -82,6 +82,7 @@ body {
   border-bottom: 1px solid #10121B;
 }
 .admin-login-comp .admin-login-comp2 .auth-form a {
+  color: #10121B;
   text-decoration: none;
 }
 .admin-login-comp .admin-login-comp2 .auth-form button {
